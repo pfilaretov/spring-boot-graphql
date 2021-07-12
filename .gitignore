@@ -30,3 +30,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Other ###
+# should be ignored, but for the sake of thr sample app the file is committed
+#.graphqlconfig
